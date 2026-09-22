@@ -1,0 +1,712 @@
+Dolichotetranychus floridanus (Banks)
+Anomala oblivia Horn
+Tetranychus canadensis (McGregor)
+Oberea tripunctata (Swederus)
+Tetranychus tumidus Banks
+Haematobia irritans (Linnaeus)
+Euwallacea kuroshio Gomez and Hulcr
+Oligotrophus betheli Felt
+Achatina fulica Bowdich
+Corythucha marmorata (Uhler)
+Eriophyes pyri (Pagenstecher)
+Cephalonomia waterstoni Gahan
+Bruchophagus gibbus (Boheman)
+Knemidokoptes mutans (Robin and Lanquetin)
+Schizotetranychus asparagi (Oudemans)
+Smicronyx fulvus LeConte
+Pediculus humanus humanus Linnaeus
+Hylobius assimilis Boheman
+Agromyza parvicornis Loew
+Sphenophorus venatus vestitus Chittenden
+Loxostege cereralis (Zeller)
+Polydesma umbricola Boisduval
+Allokermes galliformis (Riley)
+Trichogramma minutum Riley
+Rhyacionia bushnelli (Busck)
+Calepiterimerus thujae (Garman)
+Anelaphus villosus (Fabricius)
+Craesus latitarsus Norton
+Nauphoeta cinerea (Olivier)
+Neoschoengastia americana (Hirst)
+Podosesia aureocincta Purrington and Nielsen
+Lygus elisus Van Duzee
+Papilio cresphontes Cramer
+Tetranychus turkestani Ugarov and Nikolski
+Pogonomyrmex barbatus (F. Smith)
+Blissus leucopterus hirtus Montandon
+Obrussa ochrefasciella (Chambers)
+Coccinella transversoguttata richardsoni Brown
+Halobates hawaiiensis Usinger
+Demodex equi Railliet
+Stethorus punctum picipes Casey
+Edwardsiana rosae (Linnaeus)
+Myndus crudus Van Duzee
+Anabrus simplex Haldeman
+Cheiracanthium mordax L. Koch
+Pseudogonatopus hospes Perkins
+Neodiprion swainei Middleton
+Corythucha morrilli Osborn and Drake
+Cochylis hospes Walsingham
+Phytomyza gymnostoma (Loew)
+Agrotis crinigera (Butler)
+Scutigera coleoptrata (Linnaeus)
+Neotoxoptera violae (Pergande)
+Sarcoptes bovis Robin
+Iridothrips iridis (Watson)
+Odontota dorsalis (Thunberg)
+Pontania promixa (Serville)
+Rhynchaenus pallicornis (Say)
+Euzophera semifuneralis (Walker)
+Opius longicaudatus Ashmead
+Hippodamia convergens Gu�rin-M�neville
+Diorhabda meridionalis Berti and Rapilly
+Psila rosae (Fabricius)
+Platyedra subcinerea (Haworth)
+Steneotarsonemus laticeps (Halbert)
+Nabis blackburni White
+Melanozosteria soror (Brunner)
+Papilio andraemon bonhotei Sharpe
+Sphenophorus aequalis aequalis Gyllenhal
+Anocentor nitens (Neumann)
+Sesia apiformis (Clerck)
+Ericaphis scoliopi (Essig)
+Eucosma gloriola Heinrich
+Aloha ipomoeae Kirkaldy
+Contarinia virginianae (Felt)
+Coleotichus blackburniae White
+Curculio uniformis (LeConte)
+Papilio aristodemus ponceanus Schaus
+Colaspis pini Barber
+Toumeyella liriodendri (Gmelin)
+Microcentrum rhombifolium (Saussure)
+Bovicola equi (Denny)
+Rhizoecus falcifer K�nckel dHerculais
+Apodemia mormo langei Comstock
+Erechthias flavistriata (Walsingham)
+Epicauta lemniscata (Fabricius)
+Hyalophora euryalus (Boisduval)
+Oberea bimaculata (Olivier)
+Pyemotes tritici (Lagr�ze-Fossat and Montan�)
+Aeroglyphus robustus (Banks)
+Protaphis middletoni (Thomas)
+Cornu aspersum M�ller
+Sibine stimulea (Clemens)
+Empoasca solana DeLong
+Vasates quadripedes Shimer
+Hydrellia wirthi Korytkowski
+Pyrausta orphisalis Walker
+Blatta lateralis (Walker)
+Sipha elegans Del Guercio
+Hydraecia micacea (Esper)
+Sitophilus linearis (Herbst)
+Thyanta custator accerra McAtee
+Eriosoma pyricola Baker and Davidson
+Paria fragariae Wilcox
+Trialeurodes vittata (Quaintance)
+Dasineura rhodophaga (Coquillett)
+Liorhyssus hyalinus (Fabricius)
+Anthonomus grandis grandis Boheman
+Spodoptera praefica (Grote)
+Pleroneura brunneicornis Rohwer
+Comstockaspis perniciosus (Comstock)
+Trialeurodes floridensis (Quaintance)
+Horistonotus uhlerii Horn
+Vaga blackburni (Tuely)
+Tagosodes orizicola (Muir)
+Dendroctonus terebrans (Olivier)
+Croesia semipurpurana (Kearfott)
+Trialeurodes packardi (Morrill)
+Bombus fervidus (Fabricius)
+Olfersia spinifera (Leach)
+Parthenolecanium quercifex (Fitch)
+Furcaspis biformis (Cockerell)
+Jalysus wickhami Van Duzee
+Frankliniella vaccinii Morgan
+Myzus cerasi (Fabricius)
+Neochlamisus platani (Brown)
+Mycetophagus quadriguttatus P. Miner
+Pityophthorus juglandis (Blackman)
+Rhopalomyia chrysanthemi (Ahlberg)
+Cylindrocopturus adspersus (LeConte)
+Pulvinaria psidii Maskell
+Epitrix fuscula Crotch
+Neodiprion burkei Middleton
+Stenchaetothrips minutus (van Deventer)
+Paraleyrodes perseae (Quaintance)
+Singhius hibisci (Kotinsky)
+Lipeurus numidae (Denny)
+Microcentrum retinerve (Burmeister)
+Papilio erymedon Lucas
+Octotoma scabripennis Gu�rin-M�neville
+Liothrips urichi Karny
+Goniocotes gallinae (De Geer)
+Stictocephala bisonia Kopp and Yonke
+Clastoptera achatina Germar
+Phyllonorycter tremuloidiella (Braun)
+Nesogonia blackburni (McLachlan)
+Allokermes kingii (Cockerell)
+Cryptolaemus montrouzieri Mulsant
+Eotetranychus yumensis (McGregor)
+Hexomyza schineri (Giraud)
+Dermacentor andersoni Stiles
+Tenodera aridifolia sinensis Saussure
+Paradiplosis tumifex Gagn�
+Ceratophyllus niger (Fox)
+Neolygus caryae (Knight)
+Petrobia latens (M�ller)
+Puto sandini Washburn
+Disonycha triangularis (Say)
+Tupiocoris notatus (Distant)
+Aspidiotus destructor Signoret
+Chrysoperla comanche (Banks)
+Tyrolichus casei Oudemans
+Strymon bazochii (Bates)
+Magdalis aenescens LeConte
+Bovicola crassipes (Rudow)
+Asterolecanium variolosum (Ratzeburg)
+Siteroptes graminum (Reuter)
+Eucosma cocana Kearfott
+Scadra rufidens St�l
+Homalodisca vitripennis (Germar)
+Coleophora ulmifoliella McDunnough
+Parthenolecanium persicae (Fabricius)
+Anaphothrips swezeyi Moulton
+Athesapeuta cyperi Marshall
+Zopherus nodulosus haldemani Horn
+Dendroctonus micans (Kugelann)
+Eriococcus spurius (Modeer)
+Blaesoxipha spp
+Tegenaria agrestis (Walckenaer)
+Cacopsylla buxi (Linnaeus)
+Aculus fockeui (Nalepa and Trouessart)
+Coptosoma xanthogramma (White)
+Rivellia quadrifasciata (Macquart)
+Platynota stultana Walsingham
+Macrosiphum lilii (Monell)
+Matsucoccus vexillorum Morrison
+Baliosus nervosus (Panzer)
+Sphenophorus maidis Chittenden
+Algarobius bottimeri Kingsolver
+Forficula auricularia Linnaeus
+Cecidomyia resinicoloides Williams
+Bombus nevadensis Cresson
+Cryptophagus varus Woodroffe and Coombs
+Diocalandra taitensis (Gu�rin-M�neville)
+Graminella sonora (Ball)
+Disholcaspis quercusmamma (Walsh)
+Nacerdes melanura (Linnaeus)
+Diabrotica undecimpunctata undecimpunctata Mannerheim
+Tiphia vernalis (Rohwer)
+Dioryctria disclusa Heinrich
+Neoscapteriscus didactylus (Latreille)
+Gasterophilus intestinalis (De Geer)
+Leptoglossus corculus (Say)
+Phyllobius intrusus Kono
+Lucanus elaphus Fabricius
+Coleophora serratella (Linnaeus)
+Pseudobryobia drummondi (Ewing)
+Liris aurulentus (Fabricius)
+Agasphaerops nigra Horn
+Argyrotaenia quadrifasciana (Fernald)
+Halticus chrysolepis Kirkaldy
+Cameraria cincinnatiella (Chambers)
+Lathridius minutus (Linnaeus)
+Brooksetta althaeae (Hussey)
+Demodex canis Leydig
+Eotetranychus hicoriae (McGregor)
+Peregrinus maidis (Ashmead)
+Eutrombidium trigonum (Hermann)
+Phytomyza ilicis Curtis
+Myzus persicae ssp. nicotianae Blackman
+Oeciacus vicarius Horvath
+Howardia biclavis (Comstock)
+Sphenophorous cicatristriatus Fahraeus
+Endria inimica (Say)
+Subulina octona (Brugui�re)
+Araecerus cumingi (Jekel)
+Diatraea saccharalis (Fabricius)
+Asphondylia websteri Felt
+Hypothenemus birmanus (Eichhoff)
+Hylobius radicis Buchanan
+Neodiprion nanulus nanulus Schedl
+Therioaphis trifolii forma maculata (Buckton)
+Pemphigus populivenae Fitch
+Phaenops californica (Van Dyke)
+Liothrips floridensis (Watson)
+Delia florilega (Zetterstedt)
+Leptodictya tabida (Herrich-Schaeffer)
+Diabrotica barberi Smith and Lawrence
+Lema daturophila Kogan and Goeden
+Aposthonia oceania (Ross)
+Megacopta cribraria�(Fabricius)
+Phryganidia californica Packard
+Pulvinaria amygdali Cockerell
+Apion ulicis (F�rster)
+Rhopalosiphum padi (Linnaeus)
+Dermestes maculatus De Geer
+Chrysoteuchia topiaria (Zeller)
+Dialeurodes kirkaldyi (Kotinsky)
+Eriophyes calaceris (Keifer)
+Tildenia inconspicuella (Murtfeldt)
+Goniodes dissimilis Denny
+Maestes hospes (Kirkaldy)
+Dolichurus stantoni (Ashmead)
+Aphomia gularis (Zeller)
+Gratiana boliviana Spaeth
+Ptinus clavipes Panzer
+Melanaspis tenebricosa (Comstock)
+Schizotetranychus celarius (Banks)
+Lagoa crispata (Packard)
+Rhipicephalus sanguineus (Latreille)
+Diabrotica balteata LeConte
+Spodoptera frugiperda (J.E. Smith)
+Haematosiphon inodorus (Dug�s)
+Oligonychus ilicis (McGregor)
+Pennisetia marginata (Harris)
+Psylliodes punctulata Melsheimer
+Alypia octomaculata (Fabricius)
+Empoasca maligna (Walsh)
+Demodex cati M�gnin
+Lampronia rubiella (Bjerkander)
+Curculio caryatrypes (Boheman)
+Nola brunellus (Hampson)
+Acrobasis nuxvorella Neunzig
+Demodex caprae Railliet
+Dendroctonus valens LeConte
+Dendrothrips ornatus (Jablonowski)
+Lopidea davisi Knight
+Phenacoccus gossypii Townsend and Cockerell
+Gyropsylla ilecis (Ashmead)
+Monocesta coryli (Say)
+Toxotrypana curvicauda Gerstaecker
+Orchidophilus peregrinator Buchanan
+Hypocryphalus mangiferae (Stebbing)
+Graptostethus manillensis (St�l)
+Toumeyella pini (King)
+Oligonychus coniferarum (McGregor)
+Tetraopes tetrophthalmus (F�rster)
+Carulaspis juniperi (Bouch�)
+Tetramesa hordei (Harris)
+Proxenus mindara (Barnes and McDunnough)
+Deroceras reticulatum (M�ller)
+Salbia haemorrhoidalis Guen�e
+Uroplata girardi Pic
+Elateroides lugubris (Say)
+Rhaphiomidas terminatus abdominalis Cazier
+Oligia fractilinea (Grote)
+Rhodobaenus quinqueunctatus (Say)
+Steneotarsonemus bancrofti (Michael)
+Neoalitarsus tenellus (Baker)
+Aedes sierrensis (Ludlow)
+Melittomma sericeum (Harris)
+Tischeria malifoliella Clemens
+Neoscapteriscus borellii (Giglio-Tos)
+Phyllotreta ramosa (Crotch)
+Diabrotica virgifera zeae Krysan and Smith
+Acanthomyops claviger (Roger)
+Spodoptera exempta (Walker)
+Typhlocyba pomaria McAtee
+Penthaleus major (Dug�s)
+Ornithonyssus bursa (Berlese)
+Bombus fernaldae (Franklin)
+Bovicola bovis (Linnaeus)
+Lagocheirus undatus (Voet)
+Eucosma tocullionana Heinrich
+Otiorhynchus meridionalis Gyllenhal
+Xestia spp
+Mezium americanum (Castelnau)
+Manduca quinquemaculata (Haworth)
+Latrodectus geometricus C.L. Koch
+Sphecius hogardii (Latreille)
+Vanessa tameamea Eschscholtz
+Dioryctria reniculelloides Mutuura and Munroe
+Palmicultor palmarum (Ehrhorn)
+Dysaphis plantaginea (Passerini)
+Aphis pomi De Geer
+Conotrachelus retentus (Say)
+Sesia tibialis (Harris)
+Chaoborus astictopus Dyar and Shannon
+Pulvinaria mammeae Maskell
+Scaphoideus luteolus Van Duzee
+Platyptilia carduidactyla (Riley)
+Chromatomyia syngenesiae Hardy
+Rhynchaenus rufipes (LeConte)
+Bombus pensylvanicus subsp. sonorus Say
+Loxosceles reclusa Gertsch and Mulaik
+Asarcopus palmarum Horvath
+Scudderia furcata Brunner von Wattenwyl
+Lipaphis pseudobrassicae (Davis)
+Asterolecanium pustulans (Cockerell)
+Systena blanda Melsheimer
+Ctenicera aeripennis destructor (Brown)
+Scaphytopius loricatus (Van Duzee)
+Graphognathus spp
+Trigonogenius globulum Solier
+Diaphorina citri Kuwayama
+Aphanisticus cochinchinae seminulum Obenberger
+Contarinia oregonensis Foote
+Papilio troilus Linnaeus
+Synclita obliteralis (Walker)
+Anthonomus grandis thurberiae Pierce
+Tachycines asynamorus Adelung
+Nuculaspis californica (Coleman)
+Enaphalodes rufulus (Haldeman)
+Choristoneura freemani Razowski
+Formica exsectoides Forel
+Neodiprion pratti pratti Stoetzel
+Neolasioptera murtfeldtiana (Felt)
+Lytta vesicatoria (Linnaeus)
+Parlatoreopsis chinensis (Marlatt)
+Podisus maculiventris (Say)
+Buprestis apricans Herbst
+Conoderus falli (Lane)
+Clostera inclusa (H�bner)
+Aphis glycines Matsumura
+Lantanophaga pusillidactyla (Walker)
+Blissus leucopterus leucopterus (Say)
+Cacopsylla negundinis Mally
+Pediculus humanus capitis De Geer
+Cuclotogaster heterographus (Nitzsch)
+Cadra figulilella (Gregson)
+Kilifia acuminata (Signoret)
+Tetramesa grandis (Riley)
+Syagrius fulvitarsis Pascoe
+Pachycondyla chinensis (Emery)
+Dermestes ater De Geer
+Diabrotica undecimpunctata howardi Barber
+Isometrus maculatus De Geer
+Psoroptes equi (Raspail)
+Contarinia bromicola (Marikovskij and Agafonova)
+Tyloderma fragariae (Riley)
+Hypothenemus pubescens Hopkins
+Pyroderces rileyi (Walsingham)
+Orgyia antiqua (Linnaeus)
+Caloptilia syringella (Fabricius)
+Bactrocera cucurbitae Coquillett
+Corydalus texanus Banks
+Tachardiella mexicana (Comstock)
+Phyllocolpa bozemani (Cooley)
+Agrilus liragus Barter and Brown
+Luridiblatta (Phyllodromica) trivittata (Serville)
+Rhinoncomimus latipes Korotyaev
+Empoasca abrupta DeLong
+Colomerus gardeniella (Keifer)
+Panonychus ulmi (Koch)
+Cupiennius coccineus F. O. Pickard-Cambridge
+Papilio rutulus Lucas
+Aculops cannibicola (Farkas)
+Conoderus amplicollis (Gyllenhal)
+Sphenophorus parvulus Gyllenhal
+Trisetacus gemmavitians Styer
+Sphaerolecanium prunastri (Boyer de Fonscolombe)
+Contarinia pyrivora (Riley)
+Eutreta xanthochaeta Aldrich
+Brevipalpus lewisi McGregor
+Pulvinaria innumerabilis (Rathvon)
+Lorryia reticulata (Oudemans)
+Limonius canus LeConte
+Lepisma saccharina Linnaeus
+Demodex ovis Railliet
+Phytoptus avellanae (Nalepa)
+Neocnemidocoptes gallinae (Railliet)
+Dinapate wrightii Horn
+Pleocoma spp
+Megalopyge opercularis (J.E. Smith)
+Zeiraphera canadensis Mutuura and Freeman
+Chlorochroa ligata (Say)
+Solenopotes capillatus (Enderlein)
+Contarinia sorghicola (Coquillett)
+Maladera castanea (Arrow)
+Ixodes pacificus Cooley and Kohls
+Musca autumnalis De Geer
+Gasterophilus haemorrhoidalis (Linnaeus)
+Contarinia juniperina Felt
+Ceruraphis viburnicola (Gillette)
+Eutetranychus banksi (McGregor)
+Melittia cucurbitae (Harris)
+Linognathus vituli (Linnaeus)
+Corythucha celtidis Osborn and Drake
+Phanacis taraxaci (Ashmead)
+Trisetacus pini (Nalepa)
+Synanthedon tipuliformis (Clerck)
+Ferrisia virgata (Cockerell)
+Phylloxera devastatrix Pergande
+Orthorhinus klugi Boheman
+Demodex phylloides Csokor
+Pinyonia edulicola Gagn�
+Neophilaenus lineatus (Linnaeus)
+Cyrtobagous salviniae Calder and Sands
+Paratimia conicola Fisher
+Atherigona reversura Villenueve
+Cylindrocopturus furnissi Buchanan
+Sparganothis directana (Walker)
+Agrilus macer (LeConte)
+Orchamoplatus mammaeferus (Quaintance and Baker)
+Bedellia orchilella Walsingham
+Stenolophus lecontei (Chaudoir)
+Goes tesselatus (Haldeman)
+Ctenicera glauca (Germar)
+Contarinia catalpae (Comstock)
+Scotorythra paludicola (Butler)
+Depressaria pastinacella (Duponchel)
+Anaticola crassicornis (Scopoli)
+Euxoa scandens (Riley)
+Cryptotermes brevis (Walker)
+Conoderus vespertinus (Fabricius)
+Demodex bovis Stiles
+Xenopsylla vexabilis (Jordan)
+Dissosteira longipennis (Thomas)
+Tinea pellionella Linnaeus
+Acanthomyops interjectus (Mayr)
+Coccotorus hirsutus Bruner
+Ceutorhynchus assimilis (Paykull)
+Prostephanus truncatus (Horn)
+Oncideres cingulata (Say)
+Mesolecanium nigrofasciatum (Pergande)
+Metrioidea brunnea (Crotch)
+Datana major Grote and Robinson
+Cladius difformis (Panzer)
+Brachycaudus persicae (Passerini)
+Saissetia neglecta De Lotto
+Eidoleon wilsoni (McLachlan)
+Chalcodermus aeneus Boheman
+Cydia ingens (Heinrich)
+Trigoniulus lumbricinus (Gerst)
+Neohydatothrips variabilis (Beach)
+Laminicoccus pandani (Cockerell)
+Anthonomus quadrigibbus Say
+Neodiprion pratti banksianae Rohwer
+Pachypsylla celtidisvesiculum Riley
+Tineola bisselliella (Hummel)
+Philodoria hibiscella (Swezey)
+Pterophorus periscelidactylus Fitch
+Mindarus pinicola (Thomas)
+Swezeyula lonicerae Zimmerman and Bradley
+Hercinothrips femoralis (O.M. Reuter)
+Rhagoletis mendax Curran
+Pikonema dimmockii (Cresson)
+Trypophloeus striatulua (Mannerheim)
+Nilotaspis halli (Green)
+Torymus varians (Walker)
+Saperda candida bipunctata Hopping
+Karshomyia caulicola Coquillett
+Tetanops myopaeformis (R�der)
+Trichordestra legitima (Grote)
+Hypena strigatus (Fabricius)
+Chilo plejadellus Zincken
+Hypurus bertrandi Perris
+Bombus melanopygus Nylander
+Corythucha ulmi Osborn and Drake
+Cryptoblabes gnidiella (Milli)
+Prodiplosis vaccinii (Felt)
+Bruchophagus platypterus (Walker)
+Suidasia nesbitti Hughes
+Chrysobothris tranquebarica (Gmelin)
+Liothrips vaneeckei Priesner
+Anomala orientalis (Waterhouse)
+Megninia cubitalis (M�gnin)
+Menacanthus stramineus (Nitzsch)
+Arge pectoralis (Leach)
+Clivina impressifrons LeConte
+Aphis aurantii Boyer de Fonscolombe
+Dialeurodes citrifolii (Morgan)
+Peranabrus scabricollis (Thomas)
+Aleurotulus anthuricola Nakahara
+Clinodiplosis rhododendri (Felt)
+Lethocerus americanus (Leidy)
+Coccotorus scutellaris (LeConte)
+Dorymyrmex insanus (Buckley)
+Chrysoperla johnsoni Henry, Wells and Pupedis
+Delta latreillei petiolare (Schulz)
+Nymphalis antiopa (Linnaeus)
+Oecanthus allardi T. Walker and Gurney
+Dialeurodes chittendeni Laing
+Eucosma sonomana Kearfott
+Drepanaphis acerifoliae (Thomas)
+Papilio multicaudata Kirby
+Empoasca stevensi Young
+Balclutha incisa hospes (Kirkaldy)
+Melittia calabaza Duckworth and Eichlin
+Marmara pomonella Busck
+Graphocephala atropunctata (Signoret)
+Nematus ventralis Say
+Derocrepis erythropus (Melsheimer)
+Matsucoccus bisetosus Morrison
+Hylobius aliradicis Warner
+Epargyreus clarus (Cramer)
+Trioza diospyri (Ashmead)
+Dasineura leguminicola (Lintner)
+Evoxysoma vitis (Saunders)
+Dioryctria yatesi Mutuura and Munroe
+Contarinia washingtonensis Johnson
+Blepharida rhois (Forster)
+Matsucoccus acalyptus (Herbert)
+Coleophora malivorella Riley
+Phoenicococcus marlatti Cockerell
+Chrysophana conicola Van Dyke
+Spodoptera exigua (H�bner)
+Contarinia schulzi Gagn�
+Apion antiquum Gyllenhal
+Ctenicera aeripennis aeripennis (Kirby)
+Clytoleptus albofasciatus (Laporte and Gory)
+Tetraleurodes mori (Quaintance)
+Monarthropalpus flavus (Schrank)
+Tricentrus albomaculatus Distant
+Chionaspis furfura (Fitch)
+Coccinella septempunctata Linnaeus
+Gliricola porcelli (Schrank)
+Chelopistes meleagridis (Linnaeus)
+Fenusa pumila (Leach)
+Chionaspis corni Cooley
+Polistes dominula (Christ)
+Nomius pygameus (Dejean)
+Antonina graminis (Maskell)
+Acalymma vittatum (Fabricius)
+Neodiprion taedae taedae Ross
+Orthodera burmeisteri Wood-Mason
+Cinara fornacula Hottes
+Trichoplusia ni (H�bner)
+Prodiplosis citrulli (Felt)
+Aphis nerii Boyer de Fonscolombe
+Dasineura swainei (Felt)
+Glossonotus crataegi (Fitch)
+Tetranychus mcdanieli McGregor
+Epitrix subcrinita LeConte
+Aphelinus lapisligni Howard
+Olethreutes permundana (Clemens)
+Ptinus ocellus Brown
+Xylotrechus aceris Fisher
+Lepidosaphes camelliae Hoke
+Rhopalosiphum maidis (Fitch)
+Janus abbreviatus (Say)
+Phaneroptera furcifera St�l
+Trinoton anserinum (Fabricius)
+Scymnodes lividigaster (Mulsant)
+Galerucella nymphaeae (Linnaeus)
+Agrilus quercicola Fisher
+Parlatoria blanchardi (Targioni Tozzetti)
+Aphis hederae Kaltenbach
+Compasus auricephalus (Say)
+Cimexopsis nyctalis List
+Neotermes connexus Snyder
+Oryzaephilus mercator (Fauvel)
+Rhizoglyphus echinopus (Fumouze and Robin)
+Gyropus ovalis Burmeister
+Protocalliphora spp
+Laothoe juglandis (J.E. Smith)
+Metamasius ritchiei Marshall
+Panchlora nivea (Linnaeus)
+Neocurtilla hexadactyla (Perty)
+Nanokermes pubescens (Bogue)
+Thermobia domestica (Packard)
+Musca domestica vicina Macquart
+Steneotarsonemus ananas (Tryon)
+Tetranychus schoenei McGregor
+Therioaphis trifolii (Monell)
+Gnophothrips fuscus (Morgan)
+Oncideres pustulatus LeConte
+Eotetranychus clitus Pritchard and Baker
+Pachynematus extensicornis (Norton)
+Herpetogramma licarsisalis (Walker)
+Datana integerrima Grote and Robinson
+Pseudococcus comstocki (Kuwana)
+Atteva punctella (Cramer)
+Neoscapteriscus abbreviatus (Scudder)
+Macrocopturus floridanus (Fall)
+Cryptomyzus ribis (Linnaeus)
+Cicindela nevadica lincolniana Casey
+Uresiphita reversalis (Guen�e)
+Eriophyes granati (Canestrini and Massalono)
+Haemodipsus ventricosus (Denny)
+Oligonychus mangiferus (Rahman and Sapra)
+Aceria hibisci (Nalepa)
+Desmocerus californicus dimorphus Fisher
+Phylloxera notabilis Pergande
+Pemphigus populitransversus Riley
+Phenacoccus dearnessi (King)
+Dalbulus quinquenotatus DeLong and Nault
+Tetranychina harti (Ewing)
+Taedia hawleyi (Knight)
+Tetramesa tritici (Fitch)
+Corythucha ciliata (Say)
+Pseudococcus dendrobiorum Williams
+Apamea amputatrix (Fitch)
+Illinoia liriodendri (Monell)
+Holochlora japonica Brunner von Wattenwyl
+Resseliella clavula (Beuterm)
+Galendromus occidentalis (Nesbitt)
+Penestrangania robusta (Uhler)
+Hyperaspis jocosa (Mulsant)
+Pycnoderes quadrimaculatus Gu�rin-M�neville
+Gryllotalpa africana Palisot de Beauvois
+Oecanthus nigricornis F. Walker
+Oxylipeurus polytrapezius (Burmeister)
+Herpetogramma phaeopteralis Guen�e
+Oecanthus major Walker
+Scolothrips sexmaculatus (Pergande)
+Conchaspis angraeci Cockerell
+Synanthedon bibionipennis (Boisduval)
+Orthezia insignis Browne
+Heliothis ononis Denis and Schifferm�ller
+Papilio glaucus Linnaeus
+Tenodera augustipennis Saussure
+Rodolia cardinalis (Mulsant)
+Vespa soror du Buysson
+Neophyllaphis araucariae Takahashi
+Contarinia texana (Felt)
+Clastoptera saintcyri Provancher
+Itame ribearia (Fitch)
+Hyles wilsoni (Rothschild)
+Ctenicera pruinina (Horn)
+Dichomeris acuminata (Staudinger)
+Lixus concavus Say
+Neohydatothrips tiliae Hood
+Coccus hesperidum Linnaeus
+Cryptorhynchus mangiferae (Fabricius)
+Pikonema alaskensis (Rohwer)
+Euscepes postfaciatus (Fairmaire)
+Erythraspides vitis (Harris)
+Delia brunnescens (Zetterstedt)
+Goniodes numidae M�jberg
+Gypsonoma haimbachiana (Kearfott)
+Platytetranychus multidigituli (Ewing)
+Sternechus paludatus (Casey)
+Callidium antennatum hesperum Casey
+Elytroteinus subtruncatus (Fairmaire)
+Empicoris rubromaculatus (Blackburn)
+Tribolium confusum Jacquelin du Val
+Acanthocinus princeps (Walker)
+Oncocephalus pacificus (Kirkaldy)
+Dioryctria ebeli Mutuura and Munroe
+Nematus ribesii (Scopoli)
+Vespula germanica (Fabricius)
+Euura lasiolepis Smith
+Toumeyella parvicornis (Cockerell)
+Rhizotrogus majalis (Razoumowsky)
+Dichelonyx backi (Kirby)
+Therioaphis riehmi (B�rner)
+Diabrotica virgifera virgifera LeConte
+Gohieria fusca (Oudemans)
+Paracoccus marginatus Williams and Granara de Willink
+Ptinus fur (Linnaeus)
+Rhyzobius ventralis (Erichson)
+Aceria mangiferae Sayed
+Pachypsylla celtidismamma (Fletcher)
+Hypera zoilus (Scopoli)
+Neodiprion taedae linearis Ross
+Targalla delatrix (Guen�e)
+Apion (Fallapion) occidentale Fall
+Aceria sheldoni (Ewing)
+Latrodectus hesperus Chamberlin and Ivie
+Stegasta bosqueella (Chambers)
+Contarinia johnsoni Felt
+Incisalia fotis bayensis (R.M. Brown)
+Nysius wekiuicola Ashlock and Gange
+Goniodes gigas (Taschenberg)
+Blepharomastix ebulealis (Guen�e)
+Recurvaria nanella Denis and Schifferm�ller
+Lepidosaphes conchiformis (Gmelin)
+Dialeurodes citri (Ashmead)
+Cnidocampa flavescens (Walker)
+Caliroa quercuscoccineae (Dyar)
+Eumerus tuberculatus Rondani
